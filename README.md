@@ -30,7 +30,7 @@ strings, arrays, loops, conditionals, and functions.
 ## ▶️ How to Run
 
 ``` bash
-node script.js
+node index.js
 ```
 
 ------------------------------------------------------------------------
